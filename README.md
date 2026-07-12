@@ -114,7 +114,6 @@ Nnewi-Noise-Exposure-Study/
 
 │
 ├── code/
-│   ├── 01_data_generation.R
 │   ├── 02_data_cleaning.R
 │   ├── 03_analysis_all.R
 │   └── 04_visualizations.R
